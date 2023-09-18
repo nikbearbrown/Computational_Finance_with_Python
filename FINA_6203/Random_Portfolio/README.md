@@ -98,7 +98,7 @@ echo "Files downloaded successfully.
 | Ticker                  | VZ           | TAP           | BMY                  | KDP            | PAA                         |
 | Exchange                | NYSE         | NYSE          | NYSE                 | NASDAQ         | NASDAQ                      |
 | Sector                  | Communication Services | Alcoholic Beverages | Discovery, development, licensing, manufacture, marketing, distribution, and sale | Beverages  | Energy Infrastructure  |
-| Industry                |              | Food & Drink  | Pharma               | Food & Drink   | Energy                      |
+| Industry                | Teleommunication             | Food & Drink  | Pharma               | Food & Drink   | Energy                      |
 | Principal Competitor    | AT&T         | Anheuser Busch | AbbVie              | Coca-Cola      | Energy Transfer             |
 | Close Price             | 33.79        | 63.59         | 59.03                | 33.3           | 15.15                       |
 | Median Target           | 39           | 70            | 73.95                | 40             | 17                          |
