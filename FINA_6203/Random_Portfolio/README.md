@@ -100,5 +100,7 @@ echo "Files downloaded successfully.
 | Bristol-Myers Squibb      | BMY    | NYSE     | Discovery, development, licensing, manufacture, marketing, distribution, and sale | Pharma   | AbbVie                | 59.03       | 73.95         | 3.76        | 15.7        | 0.41 | 123.32B    | 1.58      |
 | Dr Pepper                 | KDP    | NASDAQ   | Beverages                                            | Food & Drink  | Coca-Cola             | 33.3        | 40            | 1.13        | 29.47       | 0.58 | 46.529B    | 3.19      |
 | Plains All American Pipeline | PAA  | NASDAQ   | Energy Infrastructure                                | Energy       | Energy Transfer      | 15.15       | 17            | 1.62        | 9.35        | 1.65 | 10.62B     | 0.1       |
-\
+
+
+
 
