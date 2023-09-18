@@ -107,16 +107,16 @@ echo "Files downloaded successfully.
 
 |                         | Verizon  | Molson Coors | Bristol-Myers Squibb | Dr Pepper | Plains All American Pipeline |
 |-------------------------|----------|--------------|----------------------|-----------|-----------------------------|
-| Ticker                  | VZ       | TAP          | BMY                  | KDP       | PAA                         |
-| Exchange                | NYSE     | NYSE         | NYSE                 | NASDAQ    | NASDAQ                      |
-| Sector                  | Communication Services | Alcoholic Beverages | Discovery, development, licensing, manufacture, marketing, distribution, and sale | Beverages | Energy Infrastructure  |
-| Industry                |          | Food & Drink | Pharma               | Food & Drink | Energy                     |
-| Principal Competitor    | AT&T     | Anheuser Busch | AbbVie              | Coca-Cola | Energy Transfer             |
-| Close Price             | 33.79    | 63.59        | 59.03                | 33.3      | 15.15                       |
-| Median Target           | 39       | 70           | 73.95                | 40        | 17                          |
-| Forward EPS             | 5        | 0.19         | 3.76                 | 1.13      | 1.62                        |
-| Forward P/E             | 6.76     | 334.68       | 15.7                 | 29.47     | 9.35                        |
-| Beta                    | 0.33     | 0.9          | 0.41                 | 0.58      | 1.65                        |
+| *Ticker*                  | VZ       | TAP          | BMY                  | KDP       | PAA                         |
+| *Exchange*                | NYSE     | NYSE         | NYSE                 | NASDAQ    | NASDAQ                      |
+| *Sector*                  | Communication Services | Alcoholic Beverages | Discovery, development, licensing, manufacture, marketing, distribution, and sale | Beverages | Energy Infrastructure  |
+| *Industry*                |          | Food & Drink | Pharma               | Food & Drink | Energy                     |
+| *Principal Competitor*    | AT&T     | Anheuser Busch | AbbVie              | Coca-Cola | Energy Transfer             |
+| *Close Price*             | 33.79    | 63.59        | 59.03                | 33.3      | 15.15                       |
+| *Median Target*           | 39       | 70           | 73.95                | 40        | 17                          |
+| *Forward EPS*             | 5        | 0.19         | 3.76                 | 1.13      | 1.62                        |
+| *Forward P/E*             | 6.76     | 334.68       | 15.7                 | 29.47     | 9.35                        |
+| *Beta*                    | 0.33     | 0.9          | 0.41                 | 0.58      | 1.65                        |
 
 
 
