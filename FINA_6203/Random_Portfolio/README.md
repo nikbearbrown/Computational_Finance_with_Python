@@ -108,33 +108,12 @@ echo "Files downloaded successfully.
 | Market Cap              | 142.055B     | 13.757B       | 123.32B              | 46.529B        | 10.62B                      |
 | PEG Ratio               | -0.63        | 2.42          | 1.58                 | 3.19           | 0.1                         |
 
+S&P 500 fell 54.78 points, or 1.2%, to 4,450.32 for Sep 15 2023  
+3 Month Treasury Rate (I:3MTCMR) 5.56% for Sep 15 2023   
+ 
+_All data at close: September 15 04:00PM EDT_
 
 
-
-| Name                      | Ticker | Exchange | Sector                                               | Industry      | Principal Competitor | Close Price | Median Target | Forward EPS | Forward P/E | Beta | Market Cap | PEG Ratio |
-|---------------------------|--------|----------|------------------------------------------------------|---------------|----------------------|-------------|---------------|-------------|-------------|------|------------|-----------|
-| Verizon                   | VZ     | NYSE     | Communication Services                               |               | AT&T                 | 33.79       | 39            | 5           | 6.76        | 0.33 | 142.055B   | -0.63     |
-| Molson Coors              | TAP    | NYSE     | Alcoholic Beverages                                  | Food & Drink  | Anheuser Busch       | 63.59       | 70            | 0.19        | 334.68      | 0.9  | 13.757B    | 2.42      |
-| Bristol-Myers Squibb      | BMY    | NYSE     | Discovery, development, licensing, manufacture, marketing, distribution, and sale | Pharma   | AbbVie                | 59.03       | 73.95         | 3.76        | 15.7        | 0.41 | 123.32B    | 1.58      |
-| Dr Pepper                 | KDP    | NASDAQ   | Beverages                                            | Food & Drink  | Coca-Cola             | 33.3        | 40            | 1.13        | 29.47       | 0.58 | 46.529B    | 3.19      |
-| Plains All American Pipeline | PAA  | NASDAQ   | Energy Infrastructure                                | Energy       | Energy Transfer      | 15.15       | 17            | 1.62        | 9.35        | 1.65 | 10.62B     | 0.1       |
-
-
-## Column Aligned 
-
-
-|                         | Verizon  | Molson Coors | Bristol-Myers Squibb | Dr Pepper | Plains All American Pipeline |
-|-------------------------|----------|--------------|----------------------|-----------|-----------------------------|
-| *Ticker*                  | VZ       | TAP          | BMY                  | KDP       | PAA                         |
-| *Exchange*                | NYSE     | NYSE         | NYSE                 | NASDAQ    | NASDAQ                      |
-| *Sector*                  | Communication Services | Alcoholic Beverages | Discovery, development, licensing, manufacture, marketing, distribution, and sale | Beverages | Energy Infrastructure  |
-| *Industry*                |          | Food & Drink | Pharma               | Food & Drink | Energy                     |
-| *Principal Competitor*    | AT&T     | Anheuser Busch | AbbVie              | Coca-Cola | Energy Transfer             |
-| *Close Price*             | 33.79    | 63.59        | 59.03                | 33.3      | 15.15                       |
-| *Median Target*           | 39       | 70           | 73.95                | 40        | 17                          |
-| *Forward EPS*             | 5        | 0.19         | 3.76                 | 1.13      | 1.62                        |
-| *Forward P/E*             | 6.76     | 334.68       | 15.7                 | 29.47     | 9.35                        |
-| *Beta*                    | 0.33     | 0.9          | 0.41                 | 0.58      | 1.65                        |
 
 
 
