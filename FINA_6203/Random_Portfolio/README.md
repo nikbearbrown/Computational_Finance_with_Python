@@ -77,3 +77,19 @@
 5. Fill in missing data using search tools like Google and ChatGPT.
 
 **Complete code and data** can be found at [this GitHub repository](https://github.com/nikbearbrown/Computational_Finance_with_Python/tree/main/FINA_6203/Random_Portfolio).
+
+
+## Getting the data
+
+NASDAQ makes this information available via FTP and they update it every night. Log into ftp.nasdaqtrader.com anonymously. Look in the directory SymbolDirectory. You'll notice two files: nasdaqlisted.txt and otherlisted.txt. These two files will give you the entire list of tradeable symbols, where they are listed, their name/description, and an indicator as to whether they are an ETF. 
+
+```bash
+# Download nasdaqlisted.txt
+curl -o nasdaqlisted.txt ftp://ftp.nasdaqtrader.com/SymbolDirectory/nasdaqlisted.txt
+
+# Download otherlisted.txt
+curl -o otherlisted.txt ftp://ftp.nasdaqtrader.com/SymbolDirectory/otherlisted.txt
+
+echo "Files downloaded successfully.
+```
+
