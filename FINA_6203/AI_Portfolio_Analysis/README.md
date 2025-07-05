@@ -80,6 +80,7 @@ Sure! Here’s your **corrected and clean cut-and-paste text**, ready:
 
 ---
 
+
 ### 2. Confidence Interval Analysis
 
 For a **99% confidence interval** of the mean return \$\mu\$ (assuming normal distribution), the formula is:
@@ -106,7 +107,6 @@ $$
 CI_{99\%} = \bar{x} \pm 2.576 \times \frac{\sigma}{\sqrt{n}}
 $$
 
----
 
 Even at the worst case for AI stocks (9%) vs. best case for bonds (9%), the expected performance is comparable, with significantly higher upside potential for AI stocks.
 
