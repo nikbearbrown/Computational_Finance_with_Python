@@ -78,20 +78,38 @@ Where:
 - $\alpha_{AI}$ = AI sector alpha adjustment factor (estimated at 3-5% based on growth premium)
 
 ### 2. Confidence Interval Analysis
+✅ Your formula is almost correct, but let’s clarify and correct it precisely (and explain it fully).
 
-For each asset class, we will establish 99% confidence intervals for expected returns:
+---
 
-$$CI_{99\%} = \mu \pm 2.576 \times \frac{\sigma}{\sqrt{n}}$$
+### Corrected Confidence Interval Formula
+
+For a **99% confidence interval** of the mean return \$\mu\$ (assuming normal distribution), the formula is:
+
+$$
+CI_{99\%} = \bar{x} \pm z_{\alpha/2} \times \frac{\sigma}{\sqrt{n}}
+$$
 
 Where:
-- $\mu$ = Expected return
-- $\sigma$ = Standard deviation of returns
-- $n$ = Sample size
 
-This allows us to make probabilistic comparisons between asset classes. For example:
+* \$\bar{x}\$ = sample mean return
+* \$\sigma\$ = standard deviation of returns (population or sample estimate)
+* \$n\$ = number of observations
+* \$z\_{\alpha/2} = 2.576\$ for a 99% confidence level
 
-* Bonds: 6% ± 3% (99% CI)
-* AI Stocks: 13% ± 4% (99% CI)
+---
+
+### Explanation
+
+* The **critical value** \$z\_{\alpha/2}\$ corresponds to the normal distribution cut-off for 99% confidence, which is approximately 2.576.
+* The term \$\frac{\sigma}{\sqrt{n}}\$ is the **standard error of the mean**, measuring how much the sample mean is expected to vary.
+
+
+$$
+CI_{99\%} = \bar{x} \pm 2.576 \times \frac{\sigma}{\sqrt{n}}
+$$
+
+---
 
 Even at the worst case for AI stocks (9%) vs. best case for bonds (9%), the expected performance is comparable, with significantly higher upside potential for AI stocks.
 
