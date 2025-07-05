@@ -81,7 +81,7 @@ Where:
 
 For each asset class, we will establish 99% confidence intervals for expected returns:
 
-$$CI_{99\%} = \mu \pm 2.576 \times \frac{\sigma}{\sqrt{n}}$$
+$CI_{99\%} = \mu \pm 2.576 \times \frac{\sigma}{\sqrt{n}}$
 
 Where:
 - $\mu$ = Expected return
