@@ -88,7 +88,7 @@ Where:
 For a **99% confidence interval** of the mean return \$\mu\$ (assuming normal distribution):
 
 $$
-CI_{99\%} = \bar{x} \pm z_{\alpha/2} \times \frac{\sigma}{\sqrt{n}}
+CI_{99\%} = \bar{x} \pm z_{\alpha / 2} \times \frac{\sigma}{\sqrt{n}}
 $$
 
 Where:
