@@ -274,3 +274,5 @@ Foundation and specialized models.
 ### B.5 AI Vertical Solutions
 
 Industry-specific AI.
+
+
