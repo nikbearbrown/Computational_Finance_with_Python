@@ -76,13 +76,11 @@ Where:
 - $\beta_i$ = Beta of asset i relative to market
 - $E(R_m)$ = Expected market return (historical S&P 500 average: 10%)
 - $\alpha_{AI}$ = AI sector alpha adjustment factor (estimated at 3-5% based on growth premium)
-
-### 2. Confidence Interval Analysis
-✅ Your formula is almost correct, but let’s clarify and correct it precisely (and explain it fully).
+Sure! Here’s your **corrected and clean cut-and-paste text**, ready:
 
 ---
 
-### Corrected Confidence Interval Formula
+### 2. Confidence Interval Analysis
 
 For a **99% confidence interval** of the mean return \$\mu\$ (assuming normal distribution), the formula is:
 
@@ -104,7 +102,6 @@ Where:
 * The **critical value** \$z\_{\alpha/2}\$ corresponds to the normal distribution cut-off for 99% confidence, which is approximately 2.576.
 * The term \$\frac{\sigma}{\sqrt{n}}\$ is the **standard error of the mean**, measuring how much the sample mean is expected to vary.
 
-
 $$
 CI_{99\%} = \bar{x} \pm 2.576 \times \frac{\sigma}{\sqrt{n}}
 $$
@@ -112,6 +109,7 @@ $$
 ---
 
 Even at the worst case for AI stocks (9%) vs. best case for bonds (9%), the expected performance is comparable, with significantly higher upside potential for AI stocks.
+
 
 ### 3. Optimal Portfolio Construction
 
